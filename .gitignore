@@ -17,6 +17,12 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
+# Node Modules
+node_modules
+
+# Bower Modules
+bower_components
+
 # =========================
 # Operating System Files
 # =========================
