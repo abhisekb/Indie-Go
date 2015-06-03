@@ -1,0 +1,99 @@
+MenuItemNumber,Category,Name,Description,Price,Image
+01,Street Snacks,Bhel Puri,"Tangy, crunchy, sweet & spicy - an Indian street food classic. Rice puffs, crunchy noodles (sev), flour crips (puris), potatoes, greenÿchillies, onions & cilantro, tossed with tamrind & mint chutneys.
+",$5.25,bhel-puri
+02,Street Snacks,Sev Puri,"Flour crips (puris) topped with potatoes, onions, green chilli, cilantro, crunchy noodles (sev), tamarind & mint chutneys.",$5.25,"sev-puri, sev-puri-2"
+03,Street Snacks,Sev Potato Dahi Puri,"Flour crips (puris) toppeds with potatoes, onions, cilantro, crunchyÿnoodles (sev), tamarind &?mint chutney, drizzled with sweet yogurt.ÿ",$5.25,"dahi-puri, dahi-puri-2"
+04,Street Snacks,Gol Gappa,"Savory puffed flour crips (puris) stuffed with potatoes, garbanzo beans &  ",$5.25,pani-puri
+05,Street Snacks,Dahi Papdi Chaat,"Deep-fried, puffed flatbreed crips (papri) filled with potatoes, garbanzoÿbeans, tamarind &?mint chutney, drizzled with sweet yogurt.",$5.25,dahi-papdi-chaat
+06,Street Snacks,Samosa,"Two fried patry shells stuffed with potatoes & peas, served with tamarindÿ&?mint chutney.ÿ",$3.00,samosa
+07,Street Snacks,Samosa Chaat,"Chopped samosas smothered with spicy garbanzo stew (chole) toppedÿwith onions, cilantro, fresh ground spices, tamarind & mint chutney,ÿtopped with sweet yogurt.",$5.25,samosa-chaat
+08,Street Snacks,Dahi Vada,"Deep fried lentil donuts topped with cilantro, tamarind & mint chutney,ÿdrizzled with sweet yogurt.",$5.25,dahi-vada
+09,Street Snacks,Aloo Tikki Chaat,"A?North Indian croquette, pan-fried & served hot with garbanzo stewÿ(chole) topped with onions, chillies & mint.",$5.25,aloo-tikki-chaar
+10,Street Snacks,Chole Bhature,"Another North Indian Classic. Seasoned garbanzo beans topped withÿonions & cilantro, served with two fluffy deep-fried leavened breadÿ(bhaturas). Extra Bhatura: $1.00 each.",$8.25,chole-bhatura
+11,Street Snacks,Aloo Puri,Puff bread with potato curry ,$8.25,aloo-puri
+12,Street Snacks,Pav Bhaji,"A Mumbai Classic. Thick Potato-based curry garnished with coriander,ÿchopped onions & aÿdash of lemon. Served with lightly toasted two buttered buns (pav). Extra Pav: $0.50 eachÿ",$8.25,pav-bhaji
+13,Street Snacks,Pakora,"Golden fried cubes of potatoes, onions &?paneer in a curried chickpeaÿbatter served with mint chutney.",$5.25,assorted-pakora
+14,Indian Sandwiches & Wraps,Vada Pav,"Another Mumbai Classic. ÿSpicy potato dumplings fried in curried chickpea batter, sandwichedÿbetween soft buns (pav) & topped with spicy garlic chutney, mint chutneyÿ& onions.",$4.25,vada-pav
+15,Indian Sandwiches & Wraps,Aloo Veggie Burger,"Soft aloo patty with Indian spices served on toased bun & toppedÿwith Indian cheese, slice of tomatoes, onions & lettuce.",$6.25,aloo-veggie-burger
+16,Indian Sandwiches & Wraps,Bombay Sandwich,"Three slices of bread layered with beet, tomato,cucumber, onion & potato.",$6.25,"bombay-sandwich, bombay-sandwich-2"
+17,Indian Sandwiches & Wraps,Bombay Masala Sandwich,"Three slices of bread layered with tomato, cucumber, onion, potato &ÿgrilled. Add Indian Cheese - $0.75 more.",$6.25,bombay-masala-sandwich
+18,Indian Sandwiches & Wraps,Aloo Tikki Kati Roll,"Spicy seasoned potatoes topped with diced tomatoes, onions &?mintÿchutney on a grilled wrap (brushed with eggs). No eggs option available.",$6.25,kati-rolls
+19,Indian Sandwiches & Wraps,Chicken Tikka Kati Roll,"Grilled tandoori chicken cubes topped with diced tomatoes, onions, mintÿchutney on a grilled wrap (brushed with eggs). No eggs option available.",$7.25,kati-rolls
+20,Indian Sandwiches & Wraps,Paneer Tikka Kati Roll,"Grilled tandoori paneer cubes topped with diced tomatoes, onions, mintÿchutney on a grilled wrap (brushed with eggs). No eggs option available.",$7.25,kati-rolls
+21,Indian Sandwiches & Wraps,Lamb Kati Roll,"Grilled tandoori lamb cubes topped with diced tomatoes, onions, mintÿchutney on a grilled wrap (brushed with eggs). No eggs option available.",$8.25,kati-rolls
+22,Indo-Chinese,Momos,Steamed Tibetan dumplings with Vegetable or Chicken fillings. Chickenÿ$1.00 more.,$5.25,
+23,Indo-Chinese,Chicken Lollipop,Pulled back chicken winglets coated with spicy red batter & deep fried. ÿServed with szechuan sauce.,$8.99,"chicken-lollipop, chicken-lollipop-2"
+24,Indo-Chinese,Gobi Manchurian,Cauliflower florets sauteed with manchuhrian sauce,$6.99,gobi-manchurian
+25,Indo-Chinese,Chilly Paneer,"Paneer served with green chilies, onions, ginger, garlic & a dash of soy sauce.",$8.99,chilly-paneer
+26,Indo-Chinese,Chilly Chicken,"Boneless chicken cubes served with green chilies, onions, ginger, garlic & a dash of soy sauce.",$8.99,
+27,Indo-Chinese,Vegetarian Manchurian,Golden fried vegetable dumplings in manchurain sauce,$8.99,
+28,Indo-Chinese,Chicken Manchurian,Golden fried boneless chicken dumplings in manchurian sauce,$10.99,chicken-manchurian
+29,Indo-Chinese,Garlic Chicken,Golden fried boneless chicken dumplings in indian style garlic sauce.,$10.99,
+30,Indo-Chinese,Fried Rice,Wok tossed long grain Basmati rice or Brown rice served with Vegetablesÿor Chicken. Chicken $1.00 more.ÿ,$8.99,"schezwan-chicken-fried-rice, schezwan-chicken-fried-rice-2"
+31,Indo-Chinese,Szechuan Fried Rice,Wok tossed long grain Basmati rice or Brown rice mixed with a blend ofÿszechuan sauce served with Vegetables or Chicken. Chicken $1.00 more.,$8.99,
+32,Indo-Chinese,Hakka Noodles,Soft Lo Mein noodles served with Vegetables or Chicken. Chicken $1.00ÿmore.,$8.99,"hakka-noodles, hakka-noodles"
+33,Indo-Chinese,Szechuan Noodles,Stir fried noodles tossed with blend of szechuan sauce served withÿVegetables or Chicken. Chicken $1.00 more.,$8.99,
+34,Indo-Chinese,American Chopsuey,Crispy noodles tossed with tangy sauce served with Vegetables or Chicken.ÿChicken $1.00 more.,$8.99,
+35,Curries - Tikka Masala,Paneer,Marinated cubes of paneer smoked in tandoor and saut‚ed in a rich spicy tomato sauce,$10.99,paneer-tikka-masala
+36,Curries - Tikka Masala,Chicken,Marinated cubes of boneless chicken smoked in tandoor and saut‚ed in a rich spicy tomato sauce,$10.99,
+37,Curries - Tikka Masala,Lamb,Marinated cubes of boneless lamb smoked in tandoor and saut‚ed in a rich spicy tomato sauce,$11.99,
+38,Curries - Tikka Masala,Shrimp,Marinated cubes of shrimps smoked in tandoor and saut‚ed in a rich spicy tomato sauce,$13.99,
+39,Curries - Kadai,Paneer,"Wok (Kadai) tossed paneer cubes, green peppers, tomato & onion mixed in traditional Indian spices and hot tomato sauce.",$10.99,
+40,Curries - Kadai,Chicken,"Wok (Kadai) tossed boneless chicken cubes, green peppers, tomato & onion mixed in traditional Indian spices and hot tomato sauce.",$10.99,kadai-chicken
+41,Curries - Kadai,Lamb,"Wok (Kadai) tossed boneless lamb cubes, green peppers, tomato & onion mixed in traditional Indian spices and hot tomato sauce.",$11.99,
+42,Curries - Kadai,Shrimp,"Wok (Kadai) tossed shrimps, green peppers, tomato & onion mixed in traditional Indian spices and hot tomato sauce.",$13.99,
+43,Curries - Saag,Paneer,"Paneer cubes cooked with puree of spinach, spices, ginger & garlic",$10.99,saag-paneer
+44,Curries - Saag,Chicken,"Boneless chicken cubes cooked with puree of spinach, spices, ginger & garlic",$10.99,
+45,Curries - Saag,Lamb,"Boneless lamb cubes cooked with puree of spinach, spices, ginger & garlic",$11.99,
+46,Curries - Saag,Shrimp,"Shrimp cooked with puree of spinach, spices, ginger & garlic",$13.99,
+47,Curries - Makhani,Paneer,Paneer cubes sauteed in mild tomato sauce with fresh herbs and spices,$10.99,paneer-makhani
+48,Curries - Makhani,Chicken,Boneless chicken cubes sauteed in mild tomato sauce with fresh herbs and spices,$10.99,
+49,Curries - Makhani,Lamb,Boneless lamb cubes sauteed in mild tomato sauce with fresh herbs and spices,$11.99,
+50,Curries - Makhani,Shrimp,Shrimp sauteed in mild tomato sauce with fresh herbs and spices,$13.99,shrimp-makhani
+51,Vegetable Dishes,Aloo Gobi,"Florets of cauliflower & potatoes tossed in a sauce of tomato, cumin, garlic, red chillies & ginger juliennes",$8.99,aloo-gobi
+52,Vegetable Dishes,Bombay Potato,"Potatoes with tomatoes, onions, ginger, garlic, herbs, and spices.",$8.99,bombay-potato
+53,Vegetable Dishes,Bhindi Masala,"Fresh okra cooked with onions, tomatoes and Indian spices",$8.99,bhindi-masala
+54,Vegetable Dishes,Baigan Bharta,"Clay oven smoked eggplant sauteed with scallions, onions, garlic, ginger & cumin seeds",$8.99,baigan-bharta
+55,Vegetable Dishes,Aloo Mutter,Green peas and potatoes cooked in a special sauce,$8.99,aloo-matar
+56,Vegetable Dishes,Malai Kofta,"Dumplings of cottage cheese, potatoes, dry fruits sauteed in a rich sauce of cashew nuts & Spanish saffron",$8.99,malai-kofta
+57,Vegetable Dishes,Chana Masala,"Garbanzo/chick pea beans prepared with a blend of pomegranate seeds, dry mango, carom (ajwain), black peppercorns and garnished with & ginger juliennes",$8.99,chana-masala
+58,Vegetable Dishes,Dal Makhani,"An all time favorite; black lentils slow cooked with tomatoes, ginger, garlic, spices & tempered with cumin seeds",$7.99,"dal-makhani,ÿdal-makhani-2"
+59,Vegetable Dishes,Dal Tadka,"Split yellow lentils cooked with tomato, ginger, garlic, turmeric, cilantro, mustard seeds & curry leaves",$7.99,dal-tadka
+60,Biryanis,Veg. Biryani,"Saffron flavored basmati rice cooked with fresh vegetables, special blend of spices & fresh herbsÿ",$7.99,
+62,Biryanis,Chicken Biryani,"Saffron flavored basmati rice cooked with chicken, special blend of spices & fresh herbsÿ",$9.99,"chicken-biryani,ÿchicken-biryani-2"
+63,Biryanis,Lamb Biryani,"Saffron flavored basmati rice cooked with lamb, special blend of spices & fresh herbsÿ",$10.99,
+64,Biryanis,Goat Biryani,"Saffron flavored basmati rice cooked with goat, special blend of spices & fresh herbsÿ",$13.99,
+65,Biryanis,Shrimp Biryani,"Saffron flavored basmati rice cooked with shrimp, special blend of spices & fresh herbsÿ",$13.99,
+66,Tandoor Magic,Chicken Tandoori,Chicken on the bone marinated in spices & yogurtÿ ÿ ÿ ÿ ÿ ÿ,$10.99,chicken-tandoori
+67,Tandoor Magic,Chicken Tikka,"Boneless chicken breast chopped in pieces, marinated in spices & yogurt.",$10.99,
+68,Tandoor Magic,Paneer Tikka,"Indian cottage cheese chopped inÿpieces, marinated in spices & yogurt.",$10.99,paneer-tikka
+69,Tandoor Magic,Shrimp Tikka,Grilled shrimp marinated in spicesÿ& yogurt,$12.99,
+70,Tandoor Magic,Sheekh Kabab,Minced lamb with mild spiced &ÿgrilled on skewers,$12.99,sheekh-kabab
+71,Tandoor Magic,Boti Kabab,"Chunks of fresh lamb marinatedÿin spices & yogurt, grilled onÿ",$12.99,boti-kabab
+72,Indian Bread,Plain Paratha,Oven Baked Indian bread (wheat flour),$2.50,
+73,Indian Bread,Aloo Paratha,Bread stuffed with potatoes,$3.00,
+74,Indian Bread,Gobi Paratha,Bread stuffed with cauliflower,$3.00,
+75,Indian Bread,Paneer Paratha,Bread stuffed with paneer,$4.00,
+76,Indian Bread,Plain Naan,Leavened bread baked in tandoor,$2.50,
+77,Indian Bread,Garlic Naan,Naan stuffed with garlic,$3.00,
+78,Indian Bread,Onion Naan,Naan stuffed with diced redÿonions,$3.00,
+79,Indian Bread,Paneer Naan,Naan stuffed with paneer,$4.50,
+80,Indian Bread,Chicken Naan,Naan stuffed with spiced ground chicken,$4.50,
+81,Indian Bread,Keema Naan,Naane stuffed with spiced ground lamb,$4.50,
+82,Indian Bread,Kabuli Naan,Naan stuffed with raisins and nuts,$4.50,
+83,Thalis,Vegetarian,"1 Veg Appetizer, 1 Paneer Dish, 1ÿVegetable, Dal, Basmati rice,ÿNaan, Raita & Rice Pudding.",$12.99,veg-thali
+84,Thalis,Non-Vegetarian,"1 Chicken Appetizer, 1 Chicken orÿLamb dish, 1 Vegetable, Dal,ÿBasmati rice, Naan, Raita &?RiceÿPudding.",$15.99,
+85,Thalis,Chaat,"Gol Gappa, Bhel Puri, Sev PotatoÿDahi Puri, Choice of Aloo Tikki orÿSamosa Chaat & Rice Pudding.",$12.99,
+86,Kidz Corner,Chicken Nuggets,,$2.99,
+87,Kidz Corner,Grilled Cheese,,$2.99,
+88,Kidz Corner,French Fries,,$2.99,
+89,Kidz Corner,PB&J Roll,,$2.99,
+90,Beverages,Chai Tea,"Mixture of Indian tea, milk, aromatic spices and herbs.",$2.00,chai-tea
+91,Beverages,Coffee,Mixture of frothed and boiled milk with finely ground coffee powder,$2.00,
+96,Beverages,Cold Coffee,Iced mixture of frothed and boiled milk with finely ground coffee powderÿ,$3.99,
+94,Beverages,Sweet Lassi,"Mixture of yogurt, water & sugar.",$2.99,
+93,Beverages,Salty Lassi,"Mixture of yogurt, water & salt.",$2.99,
+92,Beverages,Mango Lassi,"Mixture of yogurt, water, sugar & mango shake.",$2.99,mango-lassi
+95,Beverages,Soft Drinks,"Classic soft drinks: Thumbs Up, Limca, Pepsi, Coke",$2.00,soft-drinks
+97,Beverages,Mango Shake,"Mixture of riped mango pieces, milkÿ& sugar",$3.99,
+98,Beverages,Masala Soda,Club soda with exotic spices & herbs,$3.99,
